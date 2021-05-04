@@ -1,5 +1,5 @@
 # Context-Aware Tag Prediction
-This model exploits various context information such as image, location, and time to suggest a list of tags. The tags to be output are pre-defined based on how often they occur in the collected Instagram posts.
+This tag engine is devised for recommending relevant tags. This exploits various context information such as image, location, and time to suggest a list of tags. The tags to be output are pre-defined based on how often they occur in the collected Instagram posts.
 
 ## Prerequisite (Dependencies)
 We use PyTorch ver. 1.4.0 and HuggingFace's Transformers library for our implementation.
